@@ -1,4 +1,4 @@
-# Tercera_Pre_Entrega-Reyes
+Tercera_Pre_Entrega-Reyes
 Python+Django
 
 Pasos para utilizar la pagina y la base de datos
